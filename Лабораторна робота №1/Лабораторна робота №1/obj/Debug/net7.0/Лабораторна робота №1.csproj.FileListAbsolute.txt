@@ -1,0 +1,15 @@
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.csproj.AssemblyReference.cache
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.AssemblyInfoInputs.cache
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.AssemblyInfo.cs
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.csproj.CoreCompileInputs.cache
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/bin/Debug/net7.0/Лабораторна робота №1
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/bin/Debug/net7.0/Лабораторна робота №1.deps.json
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/bin/Debug/net7.0/Лабораторна робота №1.runtimeconfig.json
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/bin/Debug/net7.0/Лабораторна робота №1.dll
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/bin/Debug/net7.0/Лабораторна робота №1.pdb
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.dll
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/refint/Лабораторна робота №1.dll
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.pdb
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/Лабораторна робота №1.genruntimeconfig.cache
+/Users/viktorkharkov/Projects/Лабораторна робота №1/Лабораторна робота №1/obj/Debug/net7.0/ref/Лабораторна робота №1.dll
