@@ -1,0 +1,15 @@
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/bin/Debug/net7.0/А та П ЛР4 Харьков
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/bin/Debug/net7.0/А та П ЛР4 Харьков.deps.json
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/bin/Debug/net7.0/А та П ЛР4 Харьков.runtimeconfig.json
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/bin/Debug/net7.0/А та П ЛР4 Харьков.dll
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/bin/Debug/net7.0/А та П ЛР4 Харьков.pdb
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.csproj.AssemblyReference.cache
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.AssemblyInfoInputs.cache
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.AssemblyInfo.cs
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.csproj.CoreCompileInputs.cache
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.dll
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/refint/А та П ЛР4 Харьков.dll
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.pdb
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/А та П ЛР4 Харьков.genruntimeconfig.cache
+/Users/viktorkharkov/Projects/А та П ЛР4 Харьков/А та П ЛР4 Харьков/obj/Debug/net7.0/ref/А та П ЛР4 Харьков.dll
