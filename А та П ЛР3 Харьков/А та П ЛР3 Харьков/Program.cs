@@ -34,7 +34,7 @@ int maxIterations = 1000;
 
 Console.WriteLine("Номер ітерації | Поточний член | Накопичена сума | Похибка");
 
-while (n <= maxIterations)
+do
 {
     S2 = (Math.Pow(n, Math.Sqrt(n)) - x) / Factorial(n);
 
@@ -47,6 +47,7 @@ while (n <= maxIterations)
 
     n++;
 }
+while (n <= maxIterations);
 
 Console.WriteLine($"Фінальна сума: {S1}");
     {
