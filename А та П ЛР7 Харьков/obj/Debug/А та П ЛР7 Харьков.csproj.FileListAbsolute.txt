@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\А та П ЛР7 Харьков.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\lab_7.Form1.resources
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\А_та_П_ЛР7_Харьков.Properties.Resources.resources
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\А та П ЛР7 Харьков.csproj.GenerateResource.cache
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\А та П ЛР7 Харьков.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\bin\Debug\А та П ЛР7 Харьков.exe.config
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\bin\Debug\А та П ЛР7 Харьков.exe
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\bin\Debug\А та П ЛР7 Харьков.pdb
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\А та П ЛР7 Харьков.exe
+C:\Users\Viktor\source\repos\А та П ЛР7 Харьков\А та П ЛР7 Харьков\obj\Debug\А та П ЛР7 Харьков.pdb
