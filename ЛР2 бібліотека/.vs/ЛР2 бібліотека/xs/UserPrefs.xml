@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CEB6E7F1-BD81-4854-B808-1BFE5B230811}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab2App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2App/Program.cs">
+    <Files>
+      <File FileName="Lab2App/Program.cs" Line="69" Column="77" />
+      <File FileName="ЛР2 бібліотека/ClassLib.cs" Line="33" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ЛР2 бібліотека" expanded="True">
+            <Node name="Lab2App" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Lab2Lib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

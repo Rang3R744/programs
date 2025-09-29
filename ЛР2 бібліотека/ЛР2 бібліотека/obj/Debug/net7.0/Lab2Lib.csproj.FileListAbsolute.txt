@@ -1,0 +1,12 @@
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/bin/Debug/net7.0/Lab2Lib.deps.json
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/bin/Debug/net7.0/Lab2Lib.dll
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/bin/Debug/net7.0/Lab2Lib.pdb
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.csproj.AssemblyReference.cache
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.AssemblyInfoInputs.cache
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.AssemblyInfo.cs
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.csproj.CoreCompileInputs.cache
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.dll
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/refint/Lab2Lib.dll
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/Lab2Lib.pdb
+/Users/viktorkharkov/Projects/ЛР2 бібліотека/ЛР2 бібліотека/obj/Debug/net7.0/ref/Lab2Lib.dll
