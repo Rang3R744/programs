@@ -1,0 +1,17 @@
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\TabletApp.Form1.resources
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\TabletApp.TabletForm.resources
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.csproj.GenerateResource.cache
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.AssemblyInfoInputs.cache
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.AssemblyInfo.cs
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Rang3R\source\repos\LAB3\LAB3\bin\Debug\net8.0-windows\LAB3.exe
+C:\Users\Rang3R\source\repos\LAB3\LAB3\bin\Debug\net8.0-windows\LAB3.deps.json
+C:\Users\Rang3R\source\repos\LAB3\LAB3\bin\Debug\net8.0-windows\LAB3.runtimeconfig.json
+C:\Users\Rang3R\source\repos\LAB3\LAB3\bin\Debug\net8.0-windows\LAB3.dll
+C:\Users\Rang3R\source\repos\LAB3\LAB3\bin\Debug\net8.0-windows\LAB3.pdb
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.dll
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\refint\LAB3.dll
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.pdb
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\LAB3.genruntimeconfig.cache
+C:\Users\Rang3R\source\repos\LAB3\LAB3\obj\Debug\net8.0-windows\ref\LAB3.dll
