@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|c:\\users\\rang3r\\desktop\\lab04_tablets_net8_project\\ftablet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|solutionrelative:ftablet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|c:\\users\\rang3r\\desktop\\lab04_tablets_net8_project\\fmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|solutionrelative:fmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|c:\\users\\rang3r\\desktop\\lab04_tablets_net8_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|c:\\users\\rang3r\\desktop\\lab04_tablets_net8_project\\ftablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|solutionrelative:ftablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|c:\\users\\rang3r\\desktop\\lab04_tablets_net8_project\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|solutionrelative:fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|c:\\users\\rang3r\\desktop\\lab04_tablets_net8_project\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCC9CE-604C-88A2-1156-8BFA8868C8B6}|Lab04_Tablets_NET8_Project.csproj|solutionrelative:tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\Tablet.cs",
+              "RelativeDocumentMoniker": "Tablet.cs",
+              "ToolTip": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\Tablet.cs",
+              "RelativeToolTip": "Tablet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:52:56.435Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:52:55.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fTablet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fTablet.Designer.cs",
+              "RelativeDocumentMoniker": "fTablet.Designer.cs",
+              "ToolTip": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fTablet.Designer.cs",
+              "RelativeToolTip": "fTablet.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:52:51.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fTablet.cs",
+              "DocumentMoniker": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fTablet.cs",
+              "RelativeDocumentMoniker": "fTablet.cs",
+              "ToolTip": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fTablet.cs",
+              "RelativeToolTip": "fTablet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:52:49.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fMain.Designer.cs",
+              "RelativeDocumentMoniker": "fMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fMain.Designer.cs",
+              "RelativeToolTip": "fMain.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:52:48.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fMain.cs",
+              "RelativeDocumentMoniker": "fMain.cs",
+              "ToolTip": "C:\\Users\\Rang3R\\Desktop\\Lab04_Tablets_NET8_Project\\fMain.cs",
+              "RelativeToolTip": "fMain.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:52:45.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

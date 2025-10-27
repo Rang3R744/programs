@@ -1,0 +1,16 @@
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\bin\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.exe
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\bin\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.deps.json
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\bin\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.runtimeconfig.json
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\bin\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.dll
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\bin\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.pdb
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.AssemblyInfoInputs.cache
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.AssemblyInfo.cs
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.dll
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\refint\Lab04_Tablets_NET8_Project.dll
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.pdb
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.genruntimeconfig.cache
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\ref\Lab04_Tablets_NET8_Project.dll
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04.fMain.resources
+C:\Users\Rang3R\Desktop\Lab04_Tablets_NET8_Project\obj\Debug\net8.0-windows\Lab04_Tablets_NET8_Project.csproj.GenerateResource.cache
