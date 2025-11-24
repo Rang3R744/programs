@@ -1,0 +1,14 @@
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\bin\Debug\net8.0\Lab5_Polymorphism.exe
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\bin\Debug\net8.0\Lab5_Polymorphism.deps.json
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\bin\Debug\net8.0\Lab5_Polymorphism.runtimeconfig.json
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\bin\Debug\net8.0\Lab5_Polymorphism.dll
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\bin\Debug\net8.0\Lab5_Polymorphism.pdb
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.AssemblyInfo.cs
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.dll
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\refint\Lab5_Polymorphism.dll
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.pdb
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\Lab5_Polymorphism.genruntimeconfig.cache
+C:\Users\Rang3R\Desktop\Lab5_Polymorphism\obj\Debug\net8.0\ref\Lab5_Polymorphism.dll
