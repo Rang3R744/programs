@@ -1,0 +1,14 @@
+C:\Users\Rang3R\source\repos\лаб6\лаб6\bin\Debug\net8.0\лаб6.exe
+C:\Users\Rang3R\source\repos\лаб6\лаб6\bin\Debug\net8.0\лаб6.deps.json
+C:\Users\Rang3R\source\repos\лаб6\лаб6\bin\Debug\net8.0\лаб6.runtimeconfig.json
+C:\Users\Rang3R\source\repos\лаб6\лаб6\bin\Debug\net8.0\лаб6.dll
+C:\Users\Rang3R\source\repos\лаб6\лаб6\bin\Debug\net8.0\лаб6.pdb
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.AssemblyInfoInputs.cache
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.AssemblyInfo.cs
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.csproj.CoreCompileInputs.cache
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.dll
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\refint\лаб6.dll
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.pdb
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\лаб6.genruntimeconfig.cache
+C:\Users\Rang3R\source\repos\лаб6\лаб6\obj\Debug\net8.0\ref\лаб6.dll
