@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Property xsi:type="House">
+    <Address>Пирогова 22</Address>
+    <Area>190</Area>
+    <Price>245000</Price>
+    <Status>Продається</Status>
+    <LandArea>1</LandArea>
+  </Property>
+  <Property xsi:type="Apartment">
+    <Address>Соборна 76</Address>
+    <Area>65</Area>
+    <Price>100000</Price>
+    <Status>Заброньовано</Status>
+    <Floor>4</Floor>
+  </Property>
+  <Property xsi:type="House">
+    <Address>Келецька 77</Address>
+    <Area>122</Area>
+    <Price>155000</Price>
+    <Status>Продається</Status>
+    <LandArea>2</LandArea>
+  </Property>
+</ArrayOfProperty>

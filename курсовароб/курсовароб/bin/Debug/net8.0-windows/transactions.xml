@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTransaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transaction>
+    <Property xsi:type="House">
+      <Address>Пирогова 22</Address>
+      <Area>190</Area>
+      <Price>245000</Price>
+      <Status>Продано</Status>
+      <LandArea>1</LandArea>
+    </Property>
+    <Buyer>
+      <FullName>авііівааві</FullName>
+      <Contact>авіівааів</Contact>
+    </Buyer>
+    <Seller>
+      <FullName>аівавіаівавіаві</FullName>
+      <Contact>ваівіааів</Contact>
+    </Seller>
+    <Agent>
+      <FullName>авіаіваів</FullName>
+      <Agency>ваіав</Agency>
+      <Commission>3</Commission>
+    </Agent>
+    <FinalPrice>245000</FinalPrice>
+    <Date>2025-12-15T11:30:50.893743+02:00</Date>
+  </Transaction>
+</ArrayOfTransaction>

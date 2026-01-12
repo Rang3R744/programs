@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="course.AddPropertyForm">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABCBAAAEAQACAAIACAAAAAEMwAAAEAAAQUAA=</HashCode>
+      <FileName>AddPropertyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.Agent">
+    <Position X="6.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAIBAAAAAAAAAAA=</HashCode>
+      <FileName>Agent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.Apartment">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apartment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.Buyer">
+    <Position X="8.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Services.DataService">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIABACAAAAQAAAAAAAAAgAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.EditPropertyForm">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAACAAAAEAAACAAIACAAAAAEAwAAAUAAAQQAE=</HashCode>
+      <FileName>EditPropertyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.House">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.MainForm">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAACAAAAAAAACAAAAGAgAAhBAAAQEAAAIBgQY=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Program">
+    <Position X="5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.Property">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQBAAAEAQAAAAQEAAAAAAAAAAIBAAACAQAAAQAAAAE=</HashCode>
+      <FileName>Property.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.668" />
+  </Class>
+  <Class Name="course.ReportForm">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAIgAAAABAQA=</HashCode>
+      <FileName>ReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.SaleForm">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUCIAQEMAAACAAIAiAAAwQEAAAAhBABAAAAE=</HashCode>
+      <FileName>SaleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.Seller">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="course.Models.Transaction">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAEQAAAAAAAAAABBAAAAAQAACAA=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
